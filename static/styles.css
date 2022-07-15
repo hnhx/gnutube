@@ -1,0 +1,113 @@
+body {
+    background-color: #181818;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e8eaed;
+    word-break: break-all;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+video {
+    width: 100%;
+    height: 700px;
+}
+
+.search {
+    text-align: center;
+}
+
+.search img {
+    float: left;
+    margin-left: 35px;
+    margin-top: 20px;
+    width: 55px;
+    height: 40px;
+}
+
+.search h3 {
+    margin-left: 10px;
+}
+
+.banner {
+    width: 100%;
+    height: 230px;
+}
+
+.search input {
+    width: 500px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #202020;
+    background-color: #121212;
+    color: inherit;
+    font-family: inherit;
+    font-size: 17px;
+    outline: none;
+}
+
+.video-results {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+    grid-gap: 1.5rem;
+    justify-items: center;
+    padding: 0;
+    margin-bottom:50px;
+}
+
+.video-results a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.video-results img {
+    width: 420px;
+    height: 220px;
+    border: 1px solid #bd93f9;
+}
+
+.channel-name a , 
+.small-channel a {
+    color: #bd93f9;
+    text-decoration: none;
+}
+
+.small-channel img {
+    width: 50 !important;
+    height: 50 !important;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.description {
+    width: 50%;
+    font-size: 14px;
+}
+
+/* mobile view */
+@media only screen and (max-width: 900px) {
+    body {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    
+    video {
+        height: auto;
+    }
+
+    .search input {
+        width: 90%;
+    }
+
+    .banner {
+        height: 100px;
+    }
+
+    .search img {
+        float: unset;
+        width: 80px;
+        height: 60px;
+        margin-left: 0%;
+    }
+}
