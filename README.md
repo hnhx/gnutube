@@ -18,7 +18,7 @@
 
 ## About GNUTube
 
-GNUTube is a privacy-respecting free as in freedom YouTube front-end that lets you watch YouTube without ads, trackers or Javascript with no connections made to Google servers.
+GNUTube is a privacy-respecting free as in freedom YouTube front-end that lets you watch YouTube without ads, trackers or Javascript. No connections made to Google's servers.
 <br>
 <br>
 If you would like to learn more about GNUTube, check out the [Wiki](https://github.com/hnhx/gnutube/wiki).
