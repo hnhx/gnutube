@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/eZpTB0Q.png" width="400">
 </p>
 
-<p align="center">A privacy respecting free as in freedom frontend for YouTube.</p>
+<p align="center">A privacy-respecting free as in freedom front-end for YouTube.</p>
 <br>
 
 ## Instances
