@@ -5,19 +5,20 @@
   <img src="https://i.imgur.com/eZpTB0Q.png" width="400">
 </p>
 
-<p align="center">A privacy respecting free as in freedom frontend for YouTube</p>
+<p align="center">A privacy respecting free as in freedom frontend for YouTube.</p>
 <br>
 
-### Instances
+## Instances
 
 | Clearnet | TOR | I2P | Country |
 |-|-|-|-|
-| Soon... | | |  | 
+|  [yt.beparanoid.de](https://yt.beparanoid.de/) | ❌ | ❌ | 🇨🇭 CH |
 
 <br>
 
-### About GNUTube
-GNUTube lets you watch YouTube without ads and without gettings spied on. 0 connections are made to Google servers.
+## About GNUTube
+
+GNUTube is a privacy-respecting free as in freedom YouTube front-end that lets you watch YouTube without ads, trackers or Javascript with no connections made to Google servers.
 <br>
 <br>
-If you would like to learn more about GNUTube check out the [Wiki](https://github.com/hnhx/gnutube/wiki).
+If you would like to learn more about GNUTube, check out the [Wiki](https://github.com/hnhx/gnutube/wiki).
