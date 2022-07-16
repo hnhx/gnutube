@@ -1,4 +1,4 @@
-<h1 align="center">GNUTube</h1>
+<h1 align="center">GNUTube (BETA)</h1>
 
 <p float="left">
   <img src="https://i.imgur.com/CxNqav9.png" width="400">
